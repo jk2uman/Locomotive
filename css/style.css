@@ -1,0 +1,8 @@
+body{
+  background:url("https://thumbs.dreamstime.com/z/train-vintage-railway-station-parked-91205958.jpg");
+}
+
+#train-table th,
+   td {
+     width: 16.575%;
+   }
